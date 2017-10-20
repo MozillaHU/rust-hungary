@@ -7,7 +7,7 @@ Szeptemberben indult útjára a [Rust Hungary meetup](https://www.meetup.com/Rus
 
 Ez így is lett, hiszen egy kiadós és pihentető hosszú hétvégét követően jövő héten kedden (Október 24.) máris érkezik a második felvonás a [Mozilla Developer Roadshow](http://mzl.la/devroadshow)-val karöltve!
 
-![Mozilla Developer Roadshow Budapest](devroadshowcrop.png)
+![Mozilla Developer Roadshow Budapest](devroadshowhucrop.png)
 
 A Mozilla Developer Roadshow a Mozilla egész éves eseménysorozata amelynek keretében Mozilla fejlesztők és a nyílt web más támogatói látogatnak el különböző városokba világszerte hogy ott modern webes technológiákról adjanak elő és beszélgessenek a helyi fejlesztőközösség tagjaival.
 
